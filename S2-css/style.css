@@ -1,0 +1,10 @@
+*{ 
+  block-size: 15;
+  display: flex;
+  box-sizing: border-box;
+}
+
+section{
+  color: red;
+  border: 1px solid;
+}
